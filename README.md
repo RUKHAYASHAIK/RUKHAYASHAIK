@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RUKHAYASHAIK
+- 👋 Hi, I’m @Rukhayashaik
 - 👀 I’m interested in Building Applications
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on Project
