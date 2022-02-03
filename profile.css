@@ -1,0 +1,115 @@
+<<<<<<< HEAD
+body{
+    margin: auto;
+}
+/* Header Start */
+header{
+    height:60px;
+    background-color:#e09c83
+}
+
+#icon{
+    float:left
+}
+
+#social{
+    float:right
+}
+
+.slogo{
+    height: 50px;
+    width: 50px;
+}
+
+#mytext{
+    position:absolute;
+    margin-top:5%;
+    margin-left:10%
+}
+
+a{
+    text-decoration:none
+}
+
+/* Search Start */
+#about{
+    height:300px;
+    /* background-size: cover; */
+    background-color: peachpuff;
+}
+
+/* Skills Start */
+#Skills{
+    height:600px;
+    background-color: plum;
+}
+.image{
+    height:2%;
+    width:1%;
+    float:left;
+    margin:10%;
+}
+
+/* footer Start */
+footer{
+    height:100px;
+=======
+body{
+    margin: auto;
+}
+/* Header Start */
+header{
+    height:60px;
+    background-color:#e09c83
+}
+
+#icon{
+    float:left
+}
+
+#social{
+    float:right
+}
+
+.slogo{
+    height: 50px;
+    width: 50px;
+}
+ #about{
+     margin-top: 5%;
+     text-align: center;
+ }
+#mytext{
+    position:absolute;
+    margin-top:5%;
+    margin-left:10%
+}
+
+a{
+    text-decoration:none
+}
+
+/* Search Start */
+#about{
+    height:300px;
+    /* background-size: cover; */
+    background-color: peachpuff;
+}
+
+/* Skills Start */
+#Skills{
+    height:600px;
+    background-color: plum;
+}
+.image{
+    height:2%;
+    width:1%;
+    float:left;
+    margin:10%;
+}
+
+/* footer Start */
+footer{
+    height:100px;
+>>>>>>> 71109f9 (first commit)
+}
